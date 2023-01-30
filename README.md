@@ -4,7 +4,7 @@
 Note my background and circumstance: Basic Python experience, prior exposure to ML, full time job, workout 30 mins/day, newborn child. Previous bachelor's in Nuclear Physics and Master's in Mechanical Engineering. 8 years of working fulltime prior to enrollment.
 
 **SIADS 501 - Being a Data Scientist**\
-I found this course to be pretty good, but a lot of reading and writing. The course gives an overview of various data science topics and perspectives and has some good readings. The writing assignments were a little weird in my personal opinion. Overall the course was a good way to orient yourself for the rest of the MADS program, and to meet some new people in the program directly.\
+I found this course to be pretty good, but a lot of reading and writing. The course gives an overview of various data science topics and perspectives and has some good readings. The writing assignments were a little weird in my personal opinion. Overall the course was a good way to orient yourself for the rest of the MADS program, and to meet some new people in the program directly.
 
 Difficulty: Medium\
 Workload: Medium/High

@@ -1,4 +1,5 @@
 # University of Michigan - Masters in Applied Data Science
+## Winter 2023 Cohort
 ## Course Summary
 
 Note my prior background and ongoing circumstances: Basic Python experience, prior exposure to ML, full time job, workout 30 mins/day, newborn child. Previous bachelor's in Nuclear Physics and Master's in Mechanical Engineering. 8 years of working fulltime prior to enrollment.

@@ -9,13 +9,13 @@ I found this course to be pretty good, but a lot of reading and writing. The cou
 Difficulty: Medium\
 Workload: Medium/High
 
-**SIADS 502 - Math Methods I**
+**SIADS 502 - Math Methods I**\
 The instructor was pretty good but there was a disconnect, in my opinion, between the assignments and the lectures. The lectures are very theoretical, fast-paced, and surface level. It was more of a "review" of different mathematical concepts rather than truly teaching them. The assignments were short but usually had 1 or 2 difficult problems on it. I learned a lot in Week 1 but Weeks 3 and 4 were more abstract. Overall I wish the lectures covered more of actually *applying* the math methods to real world datasets. The office hours were great with TA Ben Merrill.
 
 Difficulty: Medium\
 Workload: Low
 
-**SIADS 505 - Data Manipulation**
+**SIADS 505 - Data Manipulation**\
 The course was good. The lectures mapped to the assignments pretty well and the topic is very useful for data science. I wish there were more pandas practice assignments, but Week 4 was pretty good for practicing. The lecturer, Chris Brooks, does a good job. The assignments took me about 8 hours on average and required some good critical thinking. My only suggestions for this course is: more pandas practice!
 
 Difficulty: Medium\

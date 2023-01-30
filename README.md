@@ -6,7 +6,7 @@ Note my prior background and ongoing circumstances: Basic Python experience, pri
 **SIADS 501 - Being a Data Scientist**\
 I found this course to be pretty good, but note there is a bit of reading and writing. The course gives an overview of various data science topics and perspectives and has some informative readings. The writing assignments were a little weird in my personal opinion, and the grading was very subjective/inconsistent. Overall, at the very least, the course was a good way to orient yourself for the rest of the MADS program, and to meet some new people in the program directly.
 
-Difficulty: Medium\
+Difficulty: Easy\
 Workload: Medium/High
 
 
